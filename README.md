@@ -9,15 +9,18 @@ DataGridViewのHeaderをカスタマイズするのに色々と試したアプ�
 関連する追加class：`DataGridViewRolloverCell`,  `DataGridViewRolloverCellColumn`
 
 参考：https://docs.microsoft.com/ja-jp/dotnet/desktop/winforms/controls/customize-cells-and-columns-in-the-datagrid-by-extending-behavior?view=netframeworkdesktop-4.8
+
 ![Animation1](https://user-images.githubusercontent.com/41602570/120915771-9e8dd000-c6e0-11eb-9f63-48d6ac51d640.gif)
 
 
 ### チェックボックスがついたHeaderセル、クリックする事で連動して表示
 関連する追加class：`DataGridViewCheckBoxColumnHeaderCell`
+
 ![Animation2](https://user-images.githubusercontent.com/41602570/120915868-1956eb00-c6e1-11eb-904f-fc3dd7aed06f.gif)
 
 
 ### セルのチェックボックスクリックと連携して無効になるボタンのセル
 関連する追加class：`DataGridViewDisableButtonCell`,  `DataGridViewDisableButtonColumn`
+
 
 ### 二つのDataGridView連動
