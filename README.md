@@ -26,3 +26,4 @@ DataGridViewのHeaderをカスタマイズするのに色々と試したアプ�
 
 
 ### 二つのDataGridView連動
+![Animation4](https://user-images.githubusercontent.com/41602570/120915982-c7fb2b80-c6e1-11eb-86ea-33642dc90c7d.gif)
