@@ -22,5 +22,7 @@ DataGridViewのHeaderをカスタマイズするのに色々と試したアプ�
 ### セルのチェックボックスクリックと連携して無効になるボタンのセル
 関連する追加class：`DataGridViewDisableButtonCell`,  `DataGridViewDisableButtonColumn`
 
+![Animation3](https://user-images.githubusercontent.com/41602570/120915901-63d86780-c6e1-11eb-9c00-c699b8130a47.gif)
+
 
 ### 二つのDataGridView連動
